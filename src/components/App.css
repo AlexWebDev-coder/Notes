@@ -1,0 +1,24 @@
+.container {
+    margin: 20px 0;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.typographyAndTextField {
+    width: 35%;
+}
+
+.myNotes {
+    display: flex;
+    justify-content: space-between;
+}
+
+.notes {
+    /* border: 1px solid black; */
+    margin-top: 20px;
+    border-radius: 20px;
+    padding-left: 20px;
+    background: rgba(233, 233, 233, 0.493);
+}
+
